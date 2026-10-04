@@ -26,6 +26,8 @@ DilectIQ is a multi-tenant AI voice-calling agent platform built for the Indian 
    npm install
    ```
 
+   `requirements.txt` is a plain-text reference list of the npm runtime and development dependencies. It is not pip-compatible; use `package.json` and `package-lock.json` with npm to install dependencies.
+
 3. **Configure Environment Variables:**
    Create a `.env.local` file in the root directory based on the following template:
    ```env
