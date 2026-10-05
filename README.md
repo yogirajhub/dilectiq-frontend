@@ -1,3 +1,4 @@
+
 # DilectIQ Frontend
 
 DilectIQ is a multi-tenant AI voice-calling agent platform built for the Indian market, supporting Hindi, Hinglish, and English. This repository contains the Next.js frontend application.
